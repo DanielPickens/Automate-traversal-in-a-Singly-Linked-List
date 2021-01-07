@@ -4,7 +4,7 @@
 
 
 
-This program is used to implement traversal in singly linked list. Here elements are added in the singly linked list and the traversal is then done in the forward direction. Traversal is the very basic operation, which presents a huge part in almost every operation on a singly-linked list.
+This program is used to implement traversal in singly linked list. Here elements are added in the singly linked list and the traversal is then done in a forward direction. Traversal is the very basic operation, which presents a huge part in almost every operation on a singly-linked list.
 
 For instance, an algorithm may traverse a singly-linked list to find a value, find a position for insertion, or any kind of other operation.
 
